@@ -21,6 +21,6 @@
 
     $send = mail($to, $subject, $txt, $headers);
 
-	echo '<script> alert("Mail send")</script>';
+	 
 
 ?>
